@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hello component should render Hello component 1`] = `
+<div>
+  <div
+    class="Hello text-3xl font-bold underline"
+  >
+    Hello World
+  </div>
+</div>
+`;
