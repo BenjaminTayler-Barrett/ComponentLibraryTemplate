@@ -4,9 +4,7 @@
 
 ## Getting Started
 
-You should be using the yarn workspace to install dependencies and run scripts.
-
-This repo currently uses yarn classic. To get everything up and running, you should have the LTS version
+To get everything up and running, you should have the LTS version
 of NodeJS installed, and Yarn classic. If not, then make sure you install those first.
 
 It is advisable to use [node version manager](https://github.com/nvm-sh/nvm#installing-and-updating) to install NodeJS,
